@@ -23,7 +23,9 @@ on clicking "Submit" button, backend will take the data and then find and compar
 ✨ Perfect Error Handling <br>
 ✨ Fully Documented <br>
 <hr>
+
 ## `Languages/Tools used`
+
 ⚡ HTML
 ⚡ ExpressJS
 ⚡ NodeJS
