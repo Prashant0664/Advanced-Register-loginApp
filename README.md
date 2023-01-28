@@ -2,15 +2,20 @@
 <br>
 This is a extremely secure registration/login website created using MERN with a super cool and responsive frontend. <br>
 <hr>
+
 ## `Live Demo`
 
 <hr>
+
 ## `Working`
+
 This website receive data [unique email, username, password] from user. Backend then send the user data to the database after encrypting the password along with JWT Token. When the user open the login page, front will ask for user email and password.
 on clicking "Submit" button, backend will take the data and then find and compare the given data with the data present in database. If given credentials do not match then it will throw an appropriate error, if credentials match then login page will take user to the HOME/MAIN PAGE.
 <br>
 <hr> 
+
 ## `Special Features🔥`
+
 ✨ Fully Responsive Website <br>
 ✨ Made using MERN along with frontend <br>
 ✨ Highly secure encryption, decryption and transfer of data <br>
@@ -28,7 +33,9 @@ on clicking "Submit" button, backend will take the data and then find and compar
 ⚡ Javascript
 ⚡ Axios
 <hr> 
+
 ## `Need of this website`
+
 Register and login page is one of the world most important part of the websites. This only allows authanticated persons to access the website. A registration page on a website consists of a registration form that lets website users get registered with the website and get access to applicable facilities, services, or products. A registration page is considered to be the most important aspect of a website as it gives you a way to be more interactive with your users. <br>
 <hr>
 
