@@ -27,7 +27,7 @@ on clicking "Submit" button, backend will take the data and then find and compar
 ⚡ CSS
 ⚡ Javascript
 ⚡ Axios
-<hr>
+<hr> 
 ## Need of this website <br>
 Register and login page is one of the world most important part of the websites. This only allows authanticated persons to access the website. A registration page on a website consists of a registration form that lets website users get registered with the website and get access to applicable facilities, services, or products. A registration page is considered to be the most important aspect of a website as it gives you a way to be more interactive with your users. <br>
 <hr>
