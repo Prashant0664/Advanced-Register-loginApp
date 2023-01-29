@@ -13,7 +13,9 @@ const register = async (req, res) => {
         res.status(201).json({ user: { name: Users.username, email: Users.email }, token, msg: "Suggesfully Registered" });
     } catch (error) {
         if (User.findOne({ email: bod.mail })) {
-            res.status(202).json({ Error: "Email already registered" })
+            //res.status(202).json({ Error: "Email already registered" })            
+            res.status(202).json({ Error: error })
+            console.log(error);
         }
         else {
             res.status(201).json({ Error: "Something went wrong" })
