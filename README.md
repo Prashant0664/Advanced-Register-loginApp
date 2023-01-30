@@ -1,6 +1,6 @@
 # Advanced Register/Login Website
 <br>
-This is a extremely secure registration/login website created using MERN with a super cool and responsive frontend. <br>
+This is a extremely secure and powerful registration/login website created using MERN with a super cool and responsive frontend. <br>
 <hr>
 
 ## `Live Demo`
